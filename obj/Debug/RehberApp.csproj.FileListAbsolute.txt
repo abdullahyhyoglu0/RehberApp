@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\RehberApp\RehberApp\bin\Debug\RehberApp.exe.config
+C:\Users\Acer\source\repos\RehberApp\RehberApp\bin\Debug\RehberApp.exe
+C:\Users\Acer\source\repos\RehberApp\RehberApp\bin\Debug\RehberApp.pdb
+C:\Users\Acer\source\repos\RehberApp\RehberApp\obj\Debug\RehberApp.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\RehberApp\RehberApp\obj\Debug\RehberApp.Form1.resources
+C:\Users\Acer\source\repos\RehberApp\RehberApp\obj\Debug\RehberApp.Properties.Resources.resources
+C:\Users\Acer\source\repos\RehberApp\RehberApp\obj\Debug\RehberApp.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\RehberApp\RehberApp\obj\Debug\RehberApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RehberApp\RehberApp\obj\Debug\RehberApp.exe
+C:\Users\Acer\source\repos\RehberApp\RehberApp\obj\Debug\RehberApp.pdb
